@@ -63,7 +63,7 @@ require("simple-run").setup({
 
 1. Open any supported file in Neovim
 2. Press your configured keybind to run or build the file
-3. Output appears in a split or terminal window
+3. Output appears in a terminal window
 
 ## Adding Custom Languages
 
